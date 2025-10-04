@@ -1,4 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🏋️ Exercise Tracker App
+
+A **Fullstack Exercise Tracker** that helps you log and track your daily exercises, duration, and progress over time.  
+Built with a modern **MERN stack (MongoDB, Express, React, Node.js)** to demonstrate **fullstack development skills**.
+
+---
+
+## ✨ Features
+- ➕ Add new exercises with name, duration, and date
+- 📜 View a list of all logged exercises
+- ✏️ Edit or update existing exercises
+- ❌ Delete exercises you no longer want to track
+- 📊 Track progress over time
+- 🖥️ Fullstack architecture (Frontend + Backend + Database)
+
+---
+
+## 🛠️ Tech Stack
+### Frontend
+- React.js
+- Axios (for API requests)
+- Bootstrap / TailwindCSS (for styling)
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB (with Mongoose ODM)
+
+---
 
 ## Available Scripts
 
